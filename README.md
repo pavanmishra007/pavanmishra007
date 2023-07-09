@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavanmishra007
 - 👀 I’m interested in Data sceince and Machine Learning.
-- 🌱 I’m currently learning Machine Learning models.
+- 🌱 I’m currently learning Machine Learning models and SQL.
 - 💞️ I’m looking to collaborate on any Data Scientist and Data analysis.
 - 📫 How to reach me, pavanmishrarock007@gmail.com 
 
