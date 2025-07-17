@@ -1,31 +1,48 @@
 # 👋 Hi, I'm Pavan Mishra
 
-🎯 **VoIP Engineer | Network Automation Learner | Future Data Scientist**
+🎯 **VoIP Engineer | Network Automation Learner | Learning Data Scientist**  
+🔐 Former **Data Security Engineer** at Genesis Cloud  
+🧠 Passionate about tech, automation, and always curious to learn something new.
 
-Welcome to my GitHub! I'm building my career at the intersection of **Network Engineering, VoIP, and Data Science**.  
-I create real-world automation and analytics projects using Python, CUCM, and FreePBX logs.
+After taking a break, I’m back to updating my GitHub — now focused on integrating my networking background with Python, VoIP analytics, and data science tools.
 
 ---
 
-## 🛠️ Tools & Technologies
-- Python • Pandas • NumPy • Scikit-learn  
-- CUCM • FreePBX • Wireshark  
-- Netmiko • GitHub • SQL • Jupyter Notebook  
-- Matplotlib • Seaborn • Streamlit (in progress)
+## 🛠️ Skills & Tools
 
+- **Programming**: Python • Bash • SQL
+- **Networking & VoIP**: CUCM • FreePBX • SIP • Wireshark • DHCP/DNS/NAT
+- **Automation**: Netmiko • Paramiko • Ansible (beginner) • REST APIs
+- **Data Tools**: Pandas • NumPy • Matplotlib • Scikit-learn • Jupyter
+- **Version Control**: Git • GitHub
+- **Other**: Windows/Linux Admin • Cisco Packet Tracer • Excel
+- 
 ---
 
 ## 📈 Roadmap
-- [x] Learn Python for Networking  
-- [x] Automate VoIP log analysis  
-- [ ] Build ML model for VoIP issues  
-- [ ] Launch Streamlit dashboard for real-time SIP errors  
+- [x] Python scripting for network and VoIP logs  
+- [x] Analyze SIP logs with Pandas  
+- [ ] Learn Streamlit for dashboard creation  
+- [ ] Deploy a real-time VoIP monitoring dashboard  
+- [ ] Learn Ansible and build auto-config scripts  
+- [ ] Build ML pipeline for network data analysis
 
 ---
 
-## 📫 Let's Connect!
+## 🧑‍💼 Past Experience
+**Data Security Engineer – Genesis Cloud**  
+- Worked on secure file handling, internal threat analysis, and system patching  
+- Gained exposure to basic log analysis and endpoint control systems
+
+---
+
+## 📫 Let's Connect
 📧 pavanmishrast007@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/pavan-mishra-5740731b7)
+
+---
+
+🔍 *Looking for opportunities to work in hybrid roles involving VoIP, Python scripting, and data analysis.*
 
 
 
