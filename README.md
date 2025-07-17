@@ -15,21 +15,6 @@ I create real-world automation and analytics projects using Python, CUCM, and fr
 
 ---
 
-## 📁 Featured Projects
-
-### 🔹 [VoIP Log Analyzer](https://github.com/pavanmishra/voip-log-analyzer)
-Parse and analyze FreePBX SIP logs. Extract call drops, failures, and generate CSV reports using Python and Pandas.
-
-### 🔹 [Python Network Tools](https://github.com/pavanmishra/python-network-tools)
-Scripts to ping multiple IPs, fetch uptime, automate configuration backups using Netmiko.
-
-### 🔹 [CDR Dashboard with SQL](https://github.com/pavanmishra/cdr-dashboard-sql)
-Analyze Call Detail Records using SQL and visualize patterns in call duration, dropped calls, and error rates.
-
-### 🔹 [Call Drop Predictor (ML)](https://github.com/pavanmishra/voip-fail-predictor)
-Train a classification model to predict VoIP call drops from log data using Scikit-learn.
-
----
 
 ## 📈 Roadmap
 - [x] Learn Python for Networking
@@ -40,7 +25,7 @@ Train a classification model to predict VoIP call drops from log data using Scik
 ---
 
 ## 📫 Let's Connect!
-📧 pavanmishrast007@gmail.com  
+📧 pavanmishra.ccnp@gmail.com  
 [LinkedIn](https://linkedin.com/in/pavanmishra) (Update this link if needed)
 
 
