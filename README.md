@@ -26,7 +26,7 @@ I create real-world automation and analytics projects using Python, CUCM, and fr
 
 ## 📫 Let's Connect!
 📧 pavanmishra.ccnp@gmail.com  
-[LinkedIn](https://linkedin.com/in/pavanmishra) (Update this link if needed)
+[LinkedIn](www.linkedin.com/in/pavan-mishra-5740731b7) (Update this link if needed)
 
 
 <!---
