@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pavan Mishra</h1>
 
 <p align="center">
-  <strong>🎯 VoIP Engineer | Network Automation Enthusiast | Aspiring Data Scientist | Power BI Learner</strong><br>
+  <strong>🎯 VoIP Engineer | Network Automation Enthusiast | Aspiring Data Scientist | Power BI Learner | Freelancer</strong><br>
   🔐 Former Data Security Engineer at Genesis Cloud <br>
   🧠 Passionate about tech, automation, and always curious to learn something new.
 </p>
