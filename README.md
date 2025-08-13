@@ -24,7 +24,7 @@
 ---
 
 ### 📊 Power BI Projects
-> ✅ Explore my Power BI dashboards and visualizations in the [**PowerBI Projects Repo**](https://github.com/pavanmishra007/PowerBI-Projects)
+> ✅ Explore my Power BI dashboards and visualizations in the [**PowerBI Projects Repo**](https://github.com/pavanmishra007/Power-Bi-)
 > 
 
 Some example projects:
