@@ -29,7 +29,7 @@
 
 Some example projects:
 - 📈 **Sales Dashboard** — Insights from mock e-commerce sales data
-- 📊 **VoIP Call Log Analysis** — SIP log metrics using Power BI
+- 📊 **U.S. Healthcare Industry Dynamics** — U.S. Healthcare Industry Dynamics analysis using Power BI
 - 🗂️ **Employee Attrition Dashboard** — Predictive visuals from HR dataset
   ## 🛠️ Skills & Tools
 
