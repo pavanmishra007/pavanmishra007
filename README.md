@@ -28,7 +28,7 @@
 > 
 
 Some example projects:
-- 📈 **Sales Dashboard** — Insights from mock e-commerce sales data
+- 📈 **Sales Performance Analysis ** — Insights from mock e-commerce sales data
 - 📊 **U.S. Healthcare Industry Dynamics** — U.S. Healthcare Industry Dynamics analysis using Power BI
 - 🗂️ **Employee Attrition Dashboard** — Predictive visuals from HR dataset
   ## 🛠️ Skills & Tools
